@@ -4,6 +4,6 @@
 
 ### 👾 System Info
 ```text
-> USERNAME : Abhishek
-> STATUS   : Learning Python & Linux Game Dev
-> MOOD     : Codes best when frustrated ⚡
+> USERNAME : TheOGAbhishek
+> STATUS   : Learning Python & Linux...
+> MOOD     : Upset..
